@@ -1,4 +1,4 @@
-let addBtn = document.querySelector('input[type="submit"]');
+;let addBtn = document.querySelector('input[type="submit"]');
 let textInput = document.querySelector('input[type="text"]');
 let tbody = document.getElementById("tbody");
 let tasks = [];
